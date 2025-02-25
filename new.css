@@ -21,7 +21,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 3em;
-  box-shadow: 0.8em 0.8em 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0.8em 0.8em 15px rgba(0, 0, 0, 0.0);
   -ms-transform: rotate(2.5deg); /* IE 9 */
   -webkit-transform: rotate(2.5deg); /* Chrome, Safari, Opera */
   transform: rotate(2.5deg);
